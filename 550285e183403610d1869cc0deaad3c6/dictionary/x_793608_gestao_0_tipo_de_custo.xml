@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="00ca5d6dc3c0b210a9155c65e4013143" label="Tipo de Custo" max_length="40" name="x_793608_gestao_0_tipo_de_custo" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo" max_length="40" name="tipo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Opex" sequence="0" value="Opex"/>
+                <element inactive_on_update="false" label="Capex" sequence="0" value="Capex"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Descrição" max_length="500" name="descricao" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d9889da9c3c0b210a9155c65e4013199" extends="task" label="Demanda" max_length="40" name="x_793608_gestao_0_demanda" text_index="true" type="collection">
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Novo" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Em andamento" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Concluído" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Cancelado" sequence="3" value="4"/>
+            </choice>
+        </element>
+    </element>
+</database>
