@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Demandas">309812c8c35c7210a9155c65e4013156</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:47:22</sys_created_on>
+        <sys_id>d70e1680c39c7210a9155c65e40131a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demandas.Solicitantes Financeiros</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d70e1680c39c7210a9155c65e40131a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:47:22</sys_updated_on>
+        <user_criteria display_value="Solicitantes Financeiros">83d61e08c35c7210a9155c65e4013118</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>915021be1bc20a1032182f8dee4bcb21</instance_id>
+        <instance_name>dev268646</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_d70e1680c39c7210a9155c65e40131a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Demandas">309812c8c35c7210a9155c65e4013156</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-25 14:47:22</sys_created_on><sys_id>d70e1680c39c7210a9155c65e40131a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demandas.Solicitantes Financeiros</sys_name><sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package><sys_policy/><sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_d70e1680c39c7210a9155c65e40131a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 14:47:22</sys_updated_on><user_criteria display_value="Solicitantes Financeiros">83d61e08c35c7210a9155c65e4013118</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-799471178</payload_hash>
+        <record_name>Demandas.Solicitantes Financeiros</record_name>
+        <reverted_from/>
+        <source>3b0115a9c3047210a9155c65e40131aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:47:22</sys_created_on>
+        <sys_id>930e1680c39c7210a9155c65e40131aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1998157dba60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:47:22</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>170e1680b89c7210f62f872ff5e48aa9</update_guid>
+        <update_guid_history>170e1680b89c7210f62f872ff5e48aa9:-799471178</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Demandas.Solicitantes Financeiros">7f2ed680c39c7210a9155c65e4013132</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:47:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>19b24d21d236414891f9984d3d637440</sys_id>
+        <sys_metadata>d70e1680c39c7210a9155c65e40131a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demandas.Solicitantes Financeiros</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d70e1680c39c7210a9155c65e40131a5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_d70e1680c39c7210a9155c65e40131a5">930e1680c39c7210a9155c65e40131aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:47:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
